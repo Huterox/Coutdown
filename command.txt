@@ -1,0 +1,2 @@
+计时器：pyinstaller -F -w Canve.py -i tubiao.ico --hidden-import weather
+控制器：pyinstaller -F -w control.py -i control.ico --hidden-import ground --hidden-import set_black
