@@ -1,9 +1,8 @@
-@[TOC](目录)
-##回接上文
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200624165712828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0ZVVEVST1g=,size_16,color_FFFFFF,t_70)
-**上文基本提到了软件的功能，那么现在就来说一下代码。
 
-好了废话不多说直接开干！
+##高中写的一个高考倒计时的倒计时程序，给有需要的人😉
+（由于GitHub的markdown不太支持某些特殊的标记（CSDN与这里的编辑器有所区别）所以说明文档的观看体验可能不如直接在CSDN查看原版博客。（csdn博客地址为：https://blog.csdn.net/FUTEROX/article/details/107869258）
+![image](https://user-images.githubusercontent.com/62883004/124928506-3a895f00-e032-11eb-966b-1ed33ae01bc9.png)
+
 ## 计时器部分
 这个呢是用python开发的，而且只是使用tkinter开发的，所以相信还是有一定的参考能力的。
 **奉上代码**
